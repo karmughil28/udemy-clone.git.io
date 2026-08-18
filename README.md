@@ -1,1 +1,1 @@
-# udemy-clone.git.io
+# udemy-clone.github.io/udemy.html
